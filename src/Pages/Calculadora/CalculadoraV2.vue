@@ -75,7 +75,7 @@ export default{
 
     </div>
 </template>
-<style>
+<style scoped>
  button {
     width: 45PX;
     height: 40px; 
@@ -88,7 +88,6 @@ export default{
     font-weight:bolder; 
     text-transform:uppercase; 
     letter-spacing: 1px; 
-    
     
 }
 </style>
